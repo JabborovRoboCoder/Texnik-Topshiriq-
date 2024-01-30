@@ -1,2 +1,5 @@
-# Texnik-Topshiriq-
-Qo'lda yasalgan buyumlar veb-saytini ishlab chiqish uchun texnik topshiriq
+# Texnik-Topshiriq
+
+<br>
+<p>Qo’lda yasalgan buyumlar savdosi bilan shug’ullanuvchi <br>“Hammasi qo’lda yasalgan”</br> veb saytini yaratish uchun <br>TEXNIK TOPSHIRIQ</br></p>
+
