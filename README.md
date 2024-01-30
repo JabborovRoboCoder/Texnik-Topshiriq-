@@ -1,5 +1,5 @@
 # Texnik-Topshiriq
 
 <br>
-<p>Qo’lda yasalgan buyumlar savdosi bilan shug’ullanuvchi <br>“Hammasi qo’lda yasalgan”</br> veb saytini yaratish uchun <br>TEXNIK TOPSHIRIQ</br></p>
+<p>Qo’lda yasalgan buyumlar savdosi bilan shug’ullanuvchi <bd>“Hammasi qo’lda yasalgan”</bd> veb saytini yaratish uchun <bd>TEXNIK TOPSHIRIQ</bd></p>
 
