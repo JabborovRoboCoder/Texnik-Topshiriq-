@@ -10,7 +10,7 @@
 <li>○	Bajaruvchi</li>
 <li>○	Loyihani yaratish uchun asos</li>
 <li>○	Davomiyligi (Boshlanish va Tugash sanalari)</li>
-<ul>
+</ul>
 <strong>●	Saytni yaratish maqsadi va vazifalari</strong>
 <ul>
 <li>○	Platformani yaratishdan maqsad</li>
@@ -23,14 +23,14 @@
 <li>○	Uchinchi tomon axborot tizimlari bilan o'zaro hamkorlik talabi<li>
 <li>○	Xavfsizlik talablari<li>
 </ul>
-<strong>●	Tizimning hayot aylanishiga texnik xizmat ko'rsatish, ta'mirlash va texnik xizmat ko'rsatish talablari</strong>
-<strong>●	Veb-interfeysning funksionalligiga qo'yiladigan talablar</strong>
-<strong>●	Rollar va kirish talablari</strong>
-<strong>●	UML diagrammalar</strong>
-<strong>●	Saytning tuzilishi va sahifalar tarkibi</strong> 
-<strong>●	Ma’lumotlar bazasining tuzilmasi</strong>
-<strong>●	ER diagrammasi</strong>
-<strong>●	Platformani nazorat qilish va qabul qilish tartibi</strong> 
-<strong>●	Hujjatlashtirish talablari</strong>
+<strong>●	Tizimning hayot aylanishiga texnik xizmat ko'rsatish, ta'mirlash va texnik xizmat ko'rsatish talablari</strong><br>
+<strong>●	Veb-interfeysning funksionalligiga qo'yiladigan talablar</strong><br>
+<strong>●	Rollar va kirish talablari</strong><br>
+<strong>●	UML diagrammalar</strong><br>
+<strong>●	Saytning tuzilishi va sahifalar tarkibi</strong> <br>
+<strong>●	Ma’lumotlar bazasining tuzilmasi</strong><br>
+<strong>●	ER diagrammasi</strong><br>
+<strong>●	Platformani nazorat qilish va qabul qilish tartibi</strong> <br>
+<strong>●	Hujjatlashtirish talablari</strong><br>
 
 
