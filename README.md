@@ -19,9 +19,9 @@
 <strong>●	Sayt talablari</strong>
 <ul>
 <li>○	Saytga qo'yiladigan umumiy talablar</li>
-<li>○	Platforma tuzilishi va funksionalligiga qo‘yiladigan talablar<li>
-<li>○	Uchinchi tomon axborot tizimlari bilan o'zaro hamkorlik talabi<li>
-<li>○	Xavfsizlik talablari<li>
+<li>○	Platforma tuzilishi va funksionalligiga qo‘yiladigan talablar</li>
+<li>○	Uchinchi tomon axborot tizimlari bilan o'zaro hamkorlik talabi</li>
+<li>○	Xavfsizlik talablari</li>
 </ul>
 <strong>●	Tizimning hayot aylanishiga texnik xizmat ko'rsatish, ta'mirlash va texnik xizmat ko'rsatish talablari</strong><br>
 <strong>●	Veb-interfeysning funksionalligiga qo'yiladigan talablar</strong><br>
