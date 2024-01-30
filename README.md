@@ -2,7 +2,7 @@
 
 <br>
 <p>Qo’lda yasalgan buyumlar savdosi bilan shug’ullanuvchi <strong>“Hammasi qo’lda yasalgan”</strong> veb saytini yaratish uchun <strong>TEXNIK TOPSHIRIQ</strong></p><br><br>
-<img scr="rasm.png" alt="Saytni bosh sahifasi"><br><br>
+<img src="rasm.png" alt="sayt rasmi" ><br><br>
 <strong>●	Umumiy ma’lumot</strong><br>
 <ul>
 <li>○	Platformaning to‘liq nomi va uning ahamiyati</li>
@@ -32,5 +32,6 @@
 <strong>●	ER diagrammasi</strong><br>
 <strong>●	Platformani nazorat qilish va qabul qilish tartibi</strong> <br>
 <strong>●	Hujjatlashtirish talablari</strong><br>
-
+<br><br><br><br>
+<strong>Documentni [.doc] formatda yuklab olishingiz mumkin</strong>
 
