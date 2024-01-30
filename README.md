@@ -1,9 +1,9 @@
 # Texnik-Topshiriq
 
 <br>
-<p>Qo’lda yasalgan buyumlar savdosi bilan shug’ullanuvchi <bd>“Hammasi qo’lda yasalgan”</bd> veb saytini yaratish uchun <bd>TEXNIK TOPSHIRIQ</bd></p><br><br>
+<p>Qo’lda yasalgan buyumlar savdosi bilan shug’ullanuvchi <strong>“Hammasi qo’lda yasalgan”</strong> veb saytini yaratish uchun <strong>TEXNIK TOPSHIRIQ</strong></p><br><br>
 <img scr="rasm.png" alt="Saytni bosh sahifasi"><br><br>
-<bd>●	Umumiy ma’lumot</bd><br>
+<strong>●	Umumiy ma’lumot</strong><br>
 <ul>
 <li>○	Platformaning to‘liq nomi va uning ahamiyati</li>
 <li>○	Buyurtmachi</li>
@@ -11,22 +11,26 @@
 <li>○	Loyihani yaratish uchun asos</li>
 <li>○	Davomiyligi (Boshlanish va Tugash sanalari)</li>
 <ul>
-●	Saytni yaratish maqsadi va vazifalari
-○	Platformani yaratishdan maqsad
-○	Platformaning vazifalari
-●	Sayt talablari
-○	Saytga qo'yiladigan umumiy talablar
-○	Platforma tuzilishi va funksionalligiga qo‘yiladigan talablar
-○	Uchinchi tomon axborot tizimlari bilan o'zaro hamkorlik talabi
-○	Xavfsizlik talablari
-●	Tizimning hayot aylanishiga texnik xizmat ko'rsatish, ta'mirlash va                texnik xizmat ko'rsatish talablari
-●	Veb-interfeysning funksionalligiga qo'yiladigan talablar
-●	Rollar va kirish talablari
-●	UML diagrammalar
-●	Saytning tuzilishi va sahifalar tarkibi 
-●	Ma’lumotlar bazasining tuzilmasi 
-●	ER diagrammasi
-●	Platformani nazorat qilish va qabul qilish tartibi 
-●	Hujjatlashtirish talablari 
+<strong>●	Saytni yaratish maqsadi va vazifalari</strong>
+<ul>
+<li>○	Platformani yaratishdan maqsad</li>
+<li>○	Platformaning vazifalari</li>
+</ul>
+<strong>●	Sayt talablari</strong>
+<ul>
+<li>○	Saytga qo'yiladigan umumiy talablar</li>
+<li>○	Platforma tuzilishi va funksionalligiga qo‘yiladigan talablar<li>
+<li>○	Uchinchi tomon axborot tizimlari bilan o'zaro hamkorlik talabi<li>
+<li>○	Xavfsizlik talablari<li>
+</ul>
+<strong>●	Tizimning hayot aylanishiga texnik xizmat ko'rsatish, ta'mirlash va texnik xizmat ko'rsatish talablari</strong>
+<strong>●	Veb-interfeysning funksionalligiga qo'yiladigan talablar</strong>
+<strong>●	Rollar va kirish talablari</strong>
+<strong>●	UML diagrammalar</strong>
+<strong>●	Saytning tuzilishi va sahifalar tarkibi</strong> 
+<strong>●	Ma’lumotlar bazasining tuzilmasi</strong>
+<strong>●	ER diagrammasi</strong>
+<strong>●	Platformani nazorat qilish va qabul qilish tartibi</strong> 
+<strong>●	Hujjatlashtirish talablari</strong>
 
 
