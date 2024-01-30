@@ -6,10 +6,10 @@
 <bd>●	Umumiy ma’lumot</bd><br>
 <ul>
 <li>○	Platformaning to‘liq nomi va uning ahamiyati</li>
-○	Buyurtmachi
-○	Bajaruvchi
-○	Loyihani yaratish uchun asos
-○	Davomiyligi (Boshlanish va Tugash sanalari)
+<li>○	Buyurtmachi</li>
+<li>○	Bajaruvchi</li>
+<li>○	Loyihani yaratish uchun asos</li>
+<li>○	Davomiyligi (Boshlanish va Tugash sanalari)</li>
 <ul>
 ●	Saytni yaratish maqsadi va vazifalari
 ○	Platformani yaratishdan maqsad
