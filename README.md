@@ -3,6 +3,7 @@
 <br>
 <p>Qo’lda yasalgan buyumlar savdosi bilan shug’ullanuvchi <strong>“Hammasi qo’lda yasalgan”</strong> veb saytini yaratish uchun <strong>TEXNIK TOPSHIRIQ</strong></p><br><br>
 <img src="rasm.png" alt="sayt rasmi" ><br><br>
+<strong text-center >Hujjat Tarkibi :</strong>
 <strong>●	Umumiy ma’lumot</strong><br>
 <ul>
 <li>○	Platformaning to‘liq nomi va uning ahamiyati</li>
